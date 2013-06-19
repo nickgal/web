@@ -9,3 +9,4 @@ end
 
 gem 'configoro', '>= 1.2.4'
 gem 'rack-cors', require: 'rack/cors'
+gem 'unicorn'
